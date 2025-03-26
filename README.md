@@ -8,4 +8,4 @@ Tokenizing and stemming using the Snowball Stemmer
 Eliminating stopwords
 After preprocessing, I transformed the cleaned text into numerical features using CountVectorizer.
 To evaluate the model's performance, I implemented a confusion matrix and generated a comprehensive classification report, including metrics such as F1 score, recall, precision, and accuracy.
-[ https://github.com/KODURISRIHARI/sms_spam_detector-/blob/main/Films%20%26%20TV%2026-03-2025%2015_57_50.png ]
+check out the Execution video of this project  :  https://www.linkedin.com/feed/update/urn:li:activity:7310609972428513281/ 
